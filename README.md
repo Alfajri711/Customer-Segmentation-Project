@@ -100,5 +100,5 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ## 📬 Contact
 For questions or feedback, feel free to reach out:
-Email: muhammadasrialfajri@gmail.com
-LinkedIn: https://www.linkedin.com/in/muhammadasrialfajri
+- Email: muhammadasrialfajri@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammadasrialfajri
